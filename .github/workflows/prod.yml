@@ -19,5 +19,5 @@ jobs:
           registry: ghcr.io
           username: "nrolland"
           password: ${{ secrets.PAT }}
-          repository: rguichard/helloworld
+          repository: nrolland/helloworld
           tags: latest
